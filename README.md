@@ -11,9 +11,9 @@ Dieses Skript ist für Digispark (ATtiny85) geschrieben und verwendet die DigiKe
 ## Einbindung der DigiKeyboard-Bibliothek
 
 
-`
-#define kbd_es_es
-#include "DigiKeyboard.h"
+
+`#define kbd_es_es
+#include "DigiKeyboard.h"`
 `
 
 Die DigiKeyboard-Bibliothek wird eingebunden, und die Tastaturbelegung wird auf Spanisch (es_ES) festgelegt. Ändern Sie die Tastaturbelegung entsprechend Ihrer Anforderungen.
